@@ -1,4 +1,4 @@
-# Expert-Sstem-discover-the-suitable-major
+# Expert-System-discover-the-suitable-major
 
 You will see in this repository, an AI project written in prolog language 
 that helps you to find a suitable major in the technical field by asking questions, 
